@@ -8,5 +8,5 @@ jobs:
       - uses: xu-cheng/latex-action@v3
         with:
           # The root LaTeX file to be compiled
-          root_file: card.tex
+          root_file: ../card.tex
           latexmk_use_xelatex: true
