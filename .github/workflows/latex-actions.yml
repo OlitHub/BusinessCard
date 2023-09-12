@@ -10,5 +10,3 @@ jobs:
           # The root LaTeX file to be compiled
           root_file: card.tex
           latexmk_use_xelatex: true
-          # Working directory
-          working_directory: card.tex
