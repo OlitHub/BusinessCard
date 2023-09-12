@@ -8,7 +8,7 @@
     # The docker image to be used
     docker_image: # optional
     # The root LaTeX file to be compiled
-    root_file: 
+    root_file: card.tex
     # The working directory for this action
     working_directory: # optional
     # Change directory into each root file's directory before compiling each documents
