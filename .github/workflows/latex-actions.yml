@@ -1,0 +1,11 @@
+name: Github Action for LaTeX
+on: [push]
+jobs:
+  check-bats-version:
+    runs-on: ubuntu-latest
+    steps:
+  # You may pin to the exact commit or the version.
+      - uses: xu-cheng/latex-action@v3
+        with:
+          # The root LaTeX file to be compiled
+          root_file: card.tex
