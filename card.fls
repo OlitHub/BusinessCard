@@ -1,6 +1,6 @@
-PWD c:\Users\oanou\OneDrive - Centrale Lille\M1\RCS\my-business-card
+PWD d:\GitHub\BusinessCard
 INPUT C:\Users\oanou\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\oanou\OneDrive - Centrale Lille\M1\RCS\my-business-card\card.tex
+INPUT d:\GitHub\BusinessCard\card.tex
 OUTPUT card.log
 INPUT D:\MiKTeX\tex\latex\base\article.cls
 INPUT D:\MiKTeX\tex\latex\base\article.cls
