@@ -10,8 +10,8 @@ jobs:
           # The root LaTeX file to be compiled
           root_file: card.tex
           latexmk_use_xelatex: true
-
-      - uses: MaineK00n/latex-actions@v0.0.1
+      - name: Upload PDF file
+        uses: actions/upload-artifact@v3
         with:
-          root: card.tex
-          pdf_name: businesscard
+          name: PDF
+          path: main.pdf
