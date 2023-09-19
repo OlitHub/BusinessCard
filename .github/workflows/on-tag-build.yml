@@ -21,13 +21,13 @@ jobs:
           release_name: Release ${{ github.ref }}
           # Text describing the contents of the tag.
     
-      - uses: xu-cheng/latex-action@v3
+      - uses: xu-cheng/latex-action@v3.1
         with:
           # The root LaTeX file to be compiled
           root_file: card.tex
           latexmk_use_xelatex: true
-      - name: Upload PDF file
-        uses: actions/upload-artifact@v3
+      - name: Upload PDF file to release
+        uses: Shopify/upload-to-release@v1.0.1
         with:
-          name: PDF
+          name: businesscard
           path: card.pdf
