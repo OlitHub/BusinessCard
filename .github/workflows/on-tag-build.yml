@@ -27,7 +27,8 @@ jobs:
           root_file: card.tex
           latexmk_use_xelatex: true
       - name: Upload PDF file to release
-        uses: Shopify/upload-to-release@v1.0.1
+        uses: svenstaro/upload-release-action@2.7.0
         with:
-          name: businesscard
-          path: card.pdf
+          # The name of the file
+          file: card.pdf
+            
