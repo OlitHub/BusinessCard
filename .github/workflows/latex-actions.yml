@@ -1,4 +1,4 @@
-name: Create a release, compile and upload business card on tag
+name: on-tag build
 on:
   push:
     # Sequence of patterns matched against refs/tags
