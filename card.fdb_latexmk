@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1695111581 "d:/GitHub/BusinessCard/card.tex" "card.pdf" "card" 1695111581 2
+["pdflatex"] 1695115707 "d:/GitHub/BusinessCard/card.tex" "card.pdf" "card" 1695115708 2
   "C:/Users/oanou/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1693897289 24125661 d55c4677854b2083c1bac7325390bd9d ""
   "D:/MiKTeX/tex/generic/iftex/ifluatex.sty" 1644000708 492 1994775aa15b0d1289725a0b1bbc2d4c ""
   "D:/MiKTeX/tex/generic/iftex/iftex.sty" 1644000708 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
@@ -14,9 +14,9 @@
   "D:/MiKTeX/tex/latex/graphics/trig.sty" 1665067579 4023 293ea1c16429fc0c4cf605f4da1791a9 ""
   "D:/MiKTeX/tex/latex/tools/multicol.sty" 1686255640 32515 51caec75eda9c8890135f12f1a4eddc3 ""
   "D:/MiKTeX/tex/latex/xltxtra/xltxtra.sty" 1546513994 5871 8a29af4ad9d707b5280738995d050842 ""
-  "card.aux" 1695111581 34 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "card.tex" 1695111576 691 836596a3d9d99abddbf8d933be4d090a ""
-  "d:/GitHub/BusinessCard/card.tex" 1695111576 691 836596a3d9d99abddbf8d933be4d090a ""
+  "card.aux" 1695115707 34 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "card.tex" 1695115703 707 30e76bd04520052cf55f58a26bb4edf1 ""
+  "d:/GitHub/BusinessCard/card.tex" 1695115703 707 30e76bd04520052cf55f58a26bb4edf1 ""
   (generated)
   "card.aux"
   "card.log"
