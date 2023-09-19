@@ -21,7 +21,7 @@ jobs:
           release_name: Release ${{ github.ref }}
           # Text describing the contents of the tag.
     
-      - uses: xu-cheng/latex-action@v3.1
+      - uses: xu-cheng/latex-action@v3
         with:
           # The root LaTeX file to be compiled
           root_file: card.tex
